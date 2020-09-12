@@ -6,8 +6,8 @@ Simple Snake game written in Rust
 
 Just clone, execute
 
-```
-    cargo run
+```bash
+cargo run
 ```
 
 And start playing!
